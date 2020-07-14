@@ -21,3 +21,6 @@ can be on any web server or even local
 file system.
 
 ## How to contribute
+
+### Copyright
+copyright by git.training
